@@ -1,0 +1,2 @@
+rdt2csv -sc -u MD390_PA7FRN.rdt -ch channels.csv -cont digitalContacts.csv -rxgrp digitalRxGroupList.csv -gen generalSettings.csv -scan scanList.csv -txt textMessage.csv -zone zoneInformation.csv
+pause

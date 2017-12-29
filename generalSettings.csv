@@ -1,2 +1,2 @@
 InfoScreenLine1;InfoScreenLine2;MonitorType;DisableAllLeds;TalkPermitTone;PasswordAndLockEnable;CHFreeIndicationTone;DisableAllTone;SaveModeReceive;SavePreamble;IntroScreen;RadioId;TxPreamble;GroupCallHangTime;PrivateCallHangTime;VoxSensitivity;RxLowBatteryInterval;CallAlertTone;LoneWorkerRespTime;LoneWorkerReminderTime;ScanDigitalHangTime;ScanAnalogHangTime;Unknown1;KeypadLockTime;Mode;PowerOnPassword;RadioProgPassowrd;PcProgPassword;RadioName
-cdPlg v12;PA7FRN;open;on;none;off;off;off;off;off;charstring;2045190;16;30;40;3;24;1;1;10;70;70;3;manual;ch;0;0;;MD390 PA7FRN
+cdPlg v13;PA7FRN;open;on;none;off;off;off;off;off;charstring;2045190;16;30;40;3;24;1;1;10;70;70;3;manual;ch;0;0;;MD390 PA7FRN

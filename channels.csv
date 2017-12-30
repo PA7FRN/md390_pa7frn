@@ -842,3 +842,19 @@ off;normal;off;12.5;analog;1;slot1;on;off;off;off;none;0;off;on;off;medium;alway
 off;normal;off;12.5;analog;1;slot1;on;off;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;4;0;0;Brandw Porto;none;off;46086250;40000000;none;none;0;0;Brw port 14
 off;normal;off;12.5;analog;1;slot1;on;off;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;4;0;0;Brandw Porto;none;off;46087500;40000000;none;none;0;0;Brw port 15
 off;normal;off;12.5;analog;1;slot1;on;off;off;off;none;0;off;on;off;medium;always;low;off;180;on;medium;none;4;0;0;Brandw Porto;none;off;46088750;40000000;none;none;0;0;Brw port 16
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45815625;45815625;none;none;0;0;Brw DMR 01
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45819375;45819375;none;none;0;0;Brw DMR 02
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45820625;45820625;none;none;0;0;Brw DMR 03
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45821875;45821875;none;none;0;0;Brw DMR 04
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45829375;45829375;none;none;0;0;Brw DMR 05
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45830625;45830625;none;none;0;0;Brw DMR 06
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45831875;45831875;none;none;0;0;Brw DMR 07
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;45873125;45873125;none;none;0;0;Brw DMR 08
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46815625;46815625;none;none;0;0;Brw DMR 09
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46819375;46819375;none;none;0;0;Brw DMR 10
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46820625;46820625;none;none;0;0;Brw DMR 11
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46821875;46821875;none;none;0;0;Brw DMR 12
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46829375;46829375;none;none;0;0;Brw DMR 13
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46830625;46830625;none;none;0;0;Brw DMR 14
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46831875;46831875;none;none;0;0;Brw DMR 15
+off;normal;off;12.5;digital;1;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;Brw DMR;Wereld Marc;off;46873125;46873125;none;none;0;0;Brw DMR 16

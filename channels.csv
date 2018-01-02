@@ -419,73 +419,86 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43801250;43041250;none;none;0;0;WFR2 YSF444
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43801250;43041250;none;none;0;0;WFR2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43801250;43041250;none;none;0;0;WFR2 belgie
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1ZHM;NEDERLAND;off;43828750;43068750;none;none;0;0;ZHM 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1ZHM;LOKAAL;off;43828750;43068750;none;none;0;0;ZHM Lokaal
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1ZHM;Noord;off;43828750;43068750;none;none;0;0;ZHM Noord
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1ZHM;Midden;off;43828750;43068750;none;none;0;0;ZHM Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;PI1ZHM;Zuid;off;43828750;43068750;none;none;0;0;ZHM Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;none;12;0;0;PI1ZHM;Oost;off;43828750;43068750;none;none;0;0;ZHM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;PI1ZHM;IJsselmond;off;43828750;43068750;none;none;0;0;ZHM IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;PI1ZHM;Oost C4FM;off;43828750;43068750;none;none;0;0;ZHM C4FM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;PI1ZHM;C4FM Hobbyscoop;off;43828750;43068750;none;none;0;0;ZHM C4FM Hobbysc
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;PI1ZHM;Techtalk;off;43828750;43068750;none;none;0;0;ZHM Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;PI1ZHM;YSF 444;off;43828750;43068750;none;none;0;0;ZHM  YSF444
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PI1ZHM;WERELDWIJD;off;43828750;43068750;none;none;0;0;ZHM Worlwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PI1ZHM;EUROPA;off;43828750;43068750;none;none;0;0;ZHM Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;PI1ZHM;NED TALIG;off;43828750;43068750;none;none;0;0;ZHM Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;PI1ZHM;XRF088A;off;43828750;43068750;none;none;0;0;ZHM1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;PI1ZHM;XRF088B;off;43828750;43068750;none;none;0;0;ZHM1XRF088B
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;PI1ZHM;Belgie Vlaams;off;43828750;43068750;none;none;0;0;ZHM BE Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;PI1ZHM;Belgie;off;43828750;43068750;none;none;0;0;ZHM Belgie
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;PI1ZHM;JOTA;off;43828750;43068750;none;none;0;0;ZHM JOTA
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1ZLB;NEDERLAND;off;43815000;43055000;none;none;0;0;ZLB 204
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1ZLB;LOKAAL;off;43815000;43055000;none;none;0;0;ZLB Lokaal
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1ZLB;Noord;off;43815000;43055000;none;none;0;0;ZLB Noord
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1ZLB;Midden;off;43815000;43055000;none;none;0;0;ZLB Midden
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;PI1ZLB;Zuid;off;43815000;43055000;none;none;0;0;ZLB Zuid
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;PI1ZLB;Oost;off;43815000;43055000;none;none;0;0;ZLB Oost
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;PI1ZLB;IJsselmond;off;43815000;43055000;none;none;0;0;ZLB IJsselmond
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;PI1ZLB;Oost C4FM;off;43815000;43055000;none;none;0;0;ZLB2 C4FM Oost
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;PI1ZLB;C4FM Hobbyscoop;off;43815000;43055000;none;none;0;0;ZLB C4FM Hobbysc
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;PI1ZLB;Techtalk;off;43815000;43055000;none;none;0;0;ZLB Techtalk
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;PI1ZLB;YSF 444;off;43815000;43055000;none;none;0;0;ZLB  YSF444
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PI1ZLB;WERELDWIJD;off;43815000;43055000;none;none;0;0;ZLB Worlwide
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PI1ZLB;EUROPA;off;43815000;43055000;none;none;0;0;ZLB Europa
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;PI1ZLB;NED TALIG;off;43815000;43055000;none;none;0;0;ZLB Ned talig
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;PI1ZLB;XRF088A;off;43815000;43055000;none;none;0;0;ZLB1XRF088A
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;PI1ZLB;XRF088B;off;43815000;43055000;none;none;0;0;ZLB1XRF088B
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;PI1ZLB;Belgie Vlaams;off;43815000;43055000;none;none;0;0;ZLB BE Vlaams
-off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;PI1ZLB;Belgie;off;43815000;43055000;none;none;0;0;ZLB Belgie
-off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;PI1ZLB;JOTA;off;43815000;43055000;none;none;0;0;ZLB JOTA
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1ZLD;NEDERLAND;off;43840000;43080000;none;none;0;0;ZLD 204
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1ZLD;LOKAAL;off;43840000;43080000;none;none;0;0;ZLD Lokaal
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1ZLD;Noord;off;43840000;43080000;none;none;0;0;ZLD Noord
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1ZLD;Midden;off;43840000;43080000;none;none;0;0;ZLD Midden
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;PI1ZLD;Zuid;off;43840000;43080000;none;none;0;0;ZLD Zuid
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;PI1ZLD;Oost;off;43840000;43080000;none;none;0;0;ZLD Oost
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;PI1ZLD;IJsselmond;off;43840000;43080000;none;none;0;0;ZLD IJsselmond
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;PI1ZLD;Oost C4FM;off;43840000;43080000;none;none;0;0;ZLD C4FM Oost
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;PI1ZLD;C4FM Hobbyscoop;off;43840000;43080000;none;none;0;0;ZLD C4FM Hobbysc
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;PI1ZLD;Techtalk;off;43840000;43080000;none;none;0;0;ZLD Techtalk
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;PI1ZLD;YSF 444;off;43840000;43080000;none;none;0;0;ZLD YSF444
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PI1ZLD;WERELDWIJD;off;43840000;43080000;none;none;0;0;ZLD Worlwide
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PI1ZLD;EUROPA;off;43840000;43080000;none;none;0;0;ZLD Europa
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;PI1ZLD;NED TALIG;off;43840000;43080000;none;none;0;0;ZLD Ned talig
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;PI1ZLD;XRF088A;off;43840000;43080000;none;none;0;0;ZLD1XRF088A
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;PI1ZLD;XRF088B;off;43840000;43080000;none;none;0;0;ZLD1XRF088B
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;PI1ZLD;Belgie Vlaams;off;43840000;43080000;none;none;0;0;ZLD BE Vlaams
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;PI1ZLD;Belgie;off;43840000;43080000;none;none;0;0;ZLD Belgie
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;PI1ZLD;JOTA;off;43840000;43080000;none;none;0;0;ZLD JOTA
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;362001;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R Lokaal
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;none;NEDERLAND;off;43890000;43130000;none;none;0;0;PJ2R 204
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;NEDERLAND;off;43828750;43068750;none;none;0;0;ZHM S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;NEDERLAND;off;43828750;43068750;none;none;0;0;ZHM1 204
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;WERELDWIJD;off;43828750;43068750;none;none;0;0;ZHM1 Worldwide
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa;EUROPA;off;43828750;43068750;none;none;0;0;ZHM1 Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig;NED TALIG;off;43828750;43068750;none;none;0;0;ZHM1 Ned talig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A;XRF088A;off;43828750;43068750;none;none;0;0;ZHM1XRF088A
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B;XRF088B;off;43828750;43068750;none;none;0;0;ZHM1XRF088B
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA;JOTA;off;43828750;43068750;none;none;0;0;ZHM1 JOTA
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;Lokaal;LOKAAL;off;43828750;43068750;none;none;0;0;ZHM2 Lokaal
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;Noord;Noord;off;43828750;43068750;none;none;0;0;ZHM2 Noord
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;Midden;Midden;off;43828750;43068750;none;none;0;0;ZHM2 Midden
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;Zuid;Zuid;off;43828750;43068750;none;none;0;0;ZHM2 Zuid
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;Oost;Oost;off;43828750;43068750;none;none;0;0;ZHM2 Oost
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;IJsselmond;IJsselmond;off;43828750;43068750;none;none;0;0;ZHM2 IJsselmond
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;C4FM Oost;Oost C4FM;off;43828750;43068750;none;none;0;0;ZHM2 C4FM Oost
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;C4FM Hobbys;C4FM Hobbyscoop;off;43828750;43068750;none;none;0;0;ZHM2 C4FM Hobbys
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;Techtalk;Techtalk;off;43828750;43068750;none;none;0;0;ZHM2 Techtalk
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43828750;43068750;none;none;0;0;ZHM2 YSF444
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43828750;43068750;none;none;0;0;ZHM2 BE Vlaams
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43828750;43068750;none;none;0;0;ZHM2 Belgie
+off;normal;on;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;NEDERLAND;off;43815000;43055000;none;none;0;0;ZLB S1S2
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;NEDERLAND;off;43815000;43055000;none;none;0;0;ZLB1 204
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;WERELDWIJD;off;43815000;43055000;none;none;0;0;ZLB1 Worldwide
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa;EUROPA;off;43815000;43055000;none;none;0;0;ZLB1 Europa
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig;NED TALIG;off;43815000;43055000;none;none;0;0;ZLB1 Ned talig
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A;XRF088A;off;43815000;43055000;none;none;0;0;ZLB1XRF088A
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B;XRF088B;off;43815000;43055000;none;none;0;0;ZLB1XRF088B
+off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA;JOTA;off;43815000;43055000;none;none;0;0;ZLB1 JOTA
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;Lokaal;LOKAAL;off;43815000;43055000;none;none;0;0;ZLB2 Lokaal
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;Noord;Noord;off;43815000;43055000;none;none;0;0;ZLB2 Noord
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;Midden;Midden;off;43815000;43055000;none;none;0;0;ZLB2 Midden
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;Zuid;Zuid;off;43815000;43055000;none;none;0;0;ZLB2 Zuid
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;Oost;Oost;off;43815000;43055000;none;none;0;0;ZLB2 Oost
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;IJsselmond;IJsselmond;off;43815000;43055000;none;none;0;0;ZLB2 IJsselmond
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;C4FM Oost;Oost C4FM;off;43815000;43055000;none;none;0;0;ZLB2 C4FM Oost
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;C4FM Hobbys;C4FM Hobbyscoop;off;43815000;43055000;none;none;0;0;ZLB2 C4FM Hobbys
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;Techtalk;Techtalk;off;43815000;43055000;none;none;0;0;ZLB2 Techtalk
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43815000;43055000;none;none;0;0;ZLB2 YSF444
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43815000;43055000;none;none;0;0;ZLB2 BE Vlaams
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43815000;43055000;none;none;0;0;ZLB2 Belgie
+off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;NEDERLAND;off;43840000;43080000;none;none;0;0;ZLD S1S2
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;NEDERLAND;off;43840000;43080000;none;none;0;0;ZLD1 204
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;WERELDWIJD;off;43840000;43080000;none;none;0;0;ZLD1 Worldwide
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa;EUROPA;off;43840000;43080000;none;none;0;0;ZLD1 Europa
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig;NED TALIG;off;43840000;43080000;none;none;0;0;ZLD1 Ned talig
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A;XRF088A;off;43840000;43080000;none;none;0;0;ZLD1XRF088A
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B;XRF088B;off;43840000;43080000;none;none;0;0;ZLD1XRF088B
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA;JOTA;off;43840000;43080000;none;none;0;0;ZLD1 JOTA
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;Lokaal;LOKAAL;off;43840000;43080000;none;none;0;0;ZLD2 Lokaal
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;Noord;Noord;off;43840000;43080000;none;none;0;0;ZLD2 Noord
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;Midden;Midden;off;43840000;43080000;none;none;0;0;ZLD2 Midden
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;Zuid;Zuid;off;43840000;43080000;none;none;0;0;ZLD2 Zuid
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;Oost;Oost;off;43840000;43080000;none;none;0;0;ZLD2 Oost
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;IJsselmond;IJsselmond;off;43840000;43080000;none;none;0;0;ZLD2 IJsselmond
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;C4FM Oost;Oost C4FM;off;43840000;43080000;none;none;0;0;ZLD2 C4FM Oost
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;C4FM Hobbys;C4FM Hobbyscoop;off;43840000;43080000;none;none;0;0;ZLD2 C4FM Hobbys
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;Techtalk;Techtalk;off;43840000;43080000;none;none;0;0;ZLD2 Techtalk
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43840000;43080000;none;none;0;0;ZLD2 YSF444
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43840000;43080000;none;none;0;0;ZLD2 BE Vlaams
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43840000;43080000;none;none;0;0;ZLD2 Belgie
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2Curacao;NEDERLAND;off;43890000;43130000;none;none;0;0;PJ2R S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;none;NEDERLAND;off;43890000;43130000;none;none;0;0;PJ2R1 204
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;none;WERELDWIJD;off;43890000;43130000;none;none;0;0;PJ2R1 Worldwide
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;none;EUROPA;off;43890000;43130000;none;none;0;0;PJ2R1 Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;none;NED TALIG;off;43890000;43130000;none;none;0;0;PJ2R1 Ned talig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;none;XRF088A;off;43890000;43130000;none;none;0;0;PJ2R1XRF088A
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;none;XRF088B;off;43890000;43130000;none;none;0;0;PJ2R1XRF088B
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;none;JOTA;off;43890000;43130000;none;none;0;0;PJ2R1 JOTA
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;362001;12;0;0;none;LOKAAL;off;43890000;43130000;none;none;0;0;PJ2R2 Lokaal
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;none;Noord;off;43890000;43130000;none;none;0;0;PJ2R NL Noord
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;none;Midden;off;43890000;43130000;none;none;0;0;PJ2R NL Midden
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;none;Zuid;off;43890000;43130000;none;none;0;0;PJ2R NL Zuid
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;none;Oost;off;43890000;43130000;none;none;0;0;PJ2R NL Oost
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;none;EUROPA;off;43890000;43130000;none;none;0;0;PJ2R Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;none;WERELDWIJD;off;43890000;43130000;none;none;0;0;PJ2R  Worldwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;none;XRF088A;off;43890000;43130000;none;none;0;0;PJ2R  XRF088A 1
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;none;XRF088B;off;43890000;43130000;none;none;0;0;PJ2R  XRF088B 1
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;none;IJsselmond;off;43890000;43130000;none;none;0;0;PJ2R IJsselmond
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;none;Oost C4FM;off;43890000;43130000;none;none;0;0;PJ2R C4FM Oost
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;none;C4FM Hobbyscoop;off;43890000;43130000;none;none;0;0;PJ2R C4FM Hobbys
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;none;Techtalk;off;43890000;43130000;none;none;0;0;PJ2R Techtalk
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;none;YSF 444;off;43890000;43130000;none;none;0;0;PJ2R YSF444
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;none;Belgie Vlaams;off;43890000;43130000;none;none;0;0;PJ2R BE Vlaams
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;none;Belgie;off;43890000;43130000;none;none;0;0;PJ2R Belgie
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1AMF;NEDERLAND;off;43817500;43057500;none;none;0;0;AMF 204
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1AMF;Noord;off;43817500;43057500;none;none;0;0;AMF Noord
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1AMF;Midden;off;43817500;43057500;none;none;0;0;AMF Midden
@@ -514,16 +527,6 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1AMF;LOKAAL;off;43817500;43057500;none;none;0;0;AMF MA 2 9
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1AMF;NEDERLAND;off;43817500;43057500;none;none;0;0;AMF MA 2 204
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20421;12;0;0;PI1AMF;Keistad;off;43817500;43057500;none;none;0;0;AMF MA 2 20421
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;none;Wereld Marc;off;43815000;43055000;none;none;0;0;KPH MA 1 1
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;none;Europa Marc;off;43815000;43055000;none;none;0;0;KPH MA 1 2
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;none;LOKAAL;off;43815000;43055000;none;none;0;0;KPH MA 1 9
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;none;DUITS Marc;off;43815000;43055000;none;none;0;0;KPH MA 1 20
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;none;NED Talig Marc;off;43815000;43055000;none;none;0;0;KPH MA 1 22
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;none;NEDERLAND;off;43815000;43055000;none;none;0;0;KPH MA 1 204
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;none;REGIONAAL Marc;off;43815000;43055000;none;none;0;0;KPH MA 2 8
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;none;LOKAAL;off;43815000;43055000;none;none;0;0;KPH MA 2 9
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;none;NEDERLAND;off;43815000;43055000;none;none;0;0;KPH MA 2 204
-off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;7;0;0;none;ENGELS Marc;off;43815000;43055000;none;none;0;0;KPH MA 1 13
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1NOG;NEDERLAND;off;43815000;43055000;none;none;0;0;NOG 204
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1NOG;LOKAAL;off;43815000;43055000;none;none;0;0;NOG Lokaal
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1NOG;Noord;off;43815000;43055000;none;none;0;0;NOG Nooed

@@ -22,6 +22,13 @@ Techtalk;BRD2 Techtalk;UTR2 Techtalk;none;20;8;ADF2 Techtalk;AMS2 Techtalk;ANH2 
 YSF444;BRD2 YSF444;UTR2 YSF444;none;20;8;ADF2 YSF444;AMS2 YSF444;ANH2 YSF444;APD2 YSF444;BRD2 YSF444;DFT2  YSF444;DRA2 YSF444;FRL2 YSF444;GRL2 YSF444;HRL2 YSF444;KPH2 YSF444;NIJ2 YSF444;NLB2 YSF444;NYM2 YSF444;SPA2 YSF444;TWE2 YSF444;UTR2 YSF444;WFR2 YSF444;ZHM2 YSF444;ZLB2 YSF444;ZLD2 YSF444;;;;;;;;;;
 BE Vlaams;BRD2 BE Vlaams;UTR2 BE Vlaams;none;20;8;ADF2 BE Vlaams;AMS2 BE Vlaams;ANH2 BE Vlaams;APD2 BE Vlaams;BRD2 BE Vlaams;DFT2 BE Vlaams;DRA2 BE Vlaams;FRL2 BE Vlaams;GRL2 BE Vlaams;HRL2 BE Vlaams;KPH2 BE Vlaams;NIJ2 BE Vlaams;NLB2 BE Vlaams;NYM2 BE Vlaams;SPA2 BE Vlaams;TWE2 BE Vlaams;UTR2 BE Vlaams;WFR2 BE Vlaams;ZHM2 BE Vlaams;ZLB2 BE Vlaams;ZLD2 BE Vlaams;;;;;;;;;;
 Belgie;BRD2 Belgie;UTR2 Belgie;none;20;8;ADF2 Belgie;AMS2 Belgie;ANH2 Belgie;APD2 Belgie;BRD2 Belgie;DFT2 Belgie;DRA2 Belgie;FRL2 Belgie;GRL2 Belgie;HRL2 Belgie;KPH2 Belgie;NIJ2 Belgie;NLB2 Belgie;NYM2 Belgie;SPA2 Belgie;TWE2 Belgie;UTR2 Belgie;WFR2 Belgie;ZHM2 Belgie;ZLB2 Belgie;ZLD2 Belgie;;;;;;;;;;
+S1S2pl;SR2OX Polska;SR2OX 26021;none;20;8;SR2OX Polska;SR2OX 26021;SR2GDD Polska;SR2GDD 26021;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PlPolska;SR2OX Polska;SR2GDD Polska;none;20;8;SR2OX Polska;SR2GDD Polska;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PlWorldwide;SR2OX Worldwide;SR2GDD Worldwide;none;20;8;SR2OX Worldwide;SR2GDD Worldwide;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+PlEuropa;SR2OX Europa;SR2GDD Europa;none;20;8;SR2OX Europa;SR2GDD Europa;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pl2602;SR2OX 2602;SR2GDD 2602;none;20;8;SR2OX 2602;SR2GDD 2602;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pl26021;SR2OX 26021;SR2GDD 26021;none;20;8;SR2OX 26021;SR2GDD 26021;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Pl26022;SR2OX 26022;SR2GDD 26022;none;20;8;SR2OX 26022;SR2GDD 26022;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 DMR-DIVERSEN;BRD1 204;BRD2 Lokaal;none;20;8;STZ-ALMERE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 PI1AMF;BRD1 204;BRD2 Lokaal;none;20;8;AMF MA 1 1;AMF MA 1 2;AMF MA 1 9;AMF MA 1 13;AMF MA 1 20;AMF MA 1 22;AMF MA 1 204;AMF MA 2 8;AMF MA 2 9;AMF MA 2 204;AMF MA 2 20421;;;;;;;;;;;;;;;;;;;;
 PI1NOG;BRD1 204;BRD2 Lokaal;none;20;16;NOG MA 1 1;NOG MA 1 2;NOG MA 1 9;NOG MA 1 13;NOG MA 1 20;NOG MA 1 22;NOG MA 1 204;NOG MA 2 8;NOG MA 2 9;NOG MA 2 204;;;;;;;;;;;;;;;;;;;;;

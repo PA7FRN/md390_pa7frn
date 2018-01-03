@@ -24,6 +24,10 @@ CallId;CallReceiveTone;CallType;Name
 2061;off;group;Belgie Vlaams
 2062;off;group;Belgie Frans
 22;off;group;NED Talig Marc
+260;off;group;POLSKA
+2602;off;group;2602 S1
+26021;off;group;26021 S2
+26022;off;group;26022 S2
 362001;off;group;PJ2R Lokaal
 4000;off;group;Ontkoppelen
 8;off;group;REGIONAAL Marc
@@ -44,10 +48,6 @@ CallId;CallReceiveTone;CallType;Name
 90003;off;private;openSP profiel 3
 90004;off;private;openSP profiel 4
 16556117;off;private;==USER ID=======
-4661001;off;private;BX2ABT Hans
-2683056;off;private;CT7AGR Paulus
-3157171;off;private;KJ4QYF Harry
-2351479;off;private;M0AUT David
 2061064;off;private;ON2AAL Stefaan
 2064002;off;private;ON2PCO Paul
 2064004;off;private;ON2PCO. Paul
@@ -304,7 +304,6 @@ CallId;CallReceiveTone;CallType;Name
 2046042;off;private;PA3RD Reink
 2045103;off;private;PA3RIS Frank
 2041210;off;private;PA3RK Ron
-2042094;off;private;PA3SSB Peter
 2044039;off;private;PA3TOP Jo
 2041067;off;private;PA3UAV Jasper
 2045153;off;private;PA4AGO Peter
@@ -584,7 +583,6 @@ CallId;CallReceiveTone;CallType;Name
 2047167;off;private;PD1GE Gerben
 2043145;off;private;PD1GIL Gill
 2042262;off;private;PD1GML George
-2045012;off;private;PD1GWF Gerben
 2047017;off;private;PD1H Maarten
 2043151;off;private;PD1HF Marcel
 2048125;off;private;PD1HHM HARCO
@@ -694,7 +692,6 @@ CallId;CallReceiveTone;CallType;Name
 2043150;off;private;PD2RJ Rene
 2048174;off;private;PD2RLD Roland
 2048091;off;private;PD2RVH Robert
-2042224;off;private;PD2RVK Rody
 2043043;off;private;PD2RVZ Ronald
 2047148;off;private;PD2SDV Stefan
 2048129;off;private;PD2SLE Peter
@@ -818,7 +815,6 @@ CallId;CallReceiveTone;CallType;Name
 2046086;off;private;PE0HBE Harry
 2041097;off;private;PE0JXA Jan
 2047138;off;private;PE0RVA Reinout
-2045082;off;private;PE0SSB Henk
 2047179;off;private;PE1ADY Piet
 2042154;off;private;PE1AGO Hans
 2048168;off;private;PE1ANV Leo
@@ -996,3 +992,7 @@ CallId;CallReceiveTone;CallType;Name
 5054029;off;private;VK4GO Art
 5054035;off;private;VK4TUX Adrian
 3107713;off;private;W6GMU Paul
+2045012;off;private;PD1GWF Gerben
+2042224;off;private;PD2RVK Rody
+2045082;off;private;PE0SSB Henk
+2602002;off;private;SP2FRN Sebastian

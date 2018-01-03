@@ -592,6 +592,20 @@ off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;PI1ZWL;REGIONAAL Marc;off;43816250;43056250;none;none;0;0;ZWL MA 2 8
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1ZWL;LOKAAL;off;43816250;43056250;none;none;0;0;ZWL MA 2 9
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1ZWL;NEDERLAND;off;43816250;43056250;none;none;0;0;ZWL MA 2 204
+off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;S1S2pl;WERELDWIJD;off;43947500;43187500;none;none;0;0;SR2OX S1S2
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;260;12;0;0;PlPolska;POLSKA;off;43947500;43187500;none;none;0;0;SR2OX Polska
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PlWorldwide;WERELDWIJD;off;43947500;43187500;none;none;0;0;SR2OX Worldwide
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PlEuropa;EUROPA;off;43947500;43187500;none;none;0;0;SR2OX Europa
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2602;12;0;0;Pl2602;2602;off;43947500;43187500;none;none;0;0;SR2OX 2602
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Pl26021;26021;off;43947500;43187500;none;none;0;0;SR2OX 26021
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26022;12;0;0;Pl26022;26022;off;43947500;43187500;none;none;0;0;SR2OX 26022
+off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;S1S2pl;WERELDWIJD;off;43828750;43068750;none;none;0;0;SR2GDD S1S2
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;260;12;0;0;PlPolska;POLSKA;off;43828750;43068750;none;none;0;0;SR2GDD Polska
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PlWorldwide;WERELDWIJD;off;43828750;43068750;none;none;0;0;SR2GDD Worldwide
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PlEuropa;EUROPA;off;43828750;43068750;none;none;0;0;SR2GDD Europa
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2602;12;0;0;Pl2602;2602;off;43828750;43068750;none;none;0;0;SR2GDD 2602
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Pl26021;26021;off;43828750;43068750;none;none;0;0;SR2GDD 26021
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26022;12;0;0;Pl26022;26022;off;43828750;43068750;none;none;0;0;SR2GDD 26022
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;SIMPLEX;off;43342500;43342500;none;none;0;0;SIMP-1D
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;SIMPLEX;off;43345000;43345000;none;none;0;0;SIMP-2D-OPR
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;SIMPLEX;off;43347500;43347500;none;none;0;0;SIMP-3D

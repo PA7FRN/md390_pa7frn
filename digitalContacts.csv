@@ -534,7 +534,6 @@ CallId;CallReceiveTone;CallType;Name
 2048004;off;private;PD0SDO Jan
 2048012;off;private;PD0SEH Gooi
 2042010;off;private;PD0TVA Theo
-2045123;off;private;PD0TZ Yermolai
 2042322;off;private;PD0TZM Ton
 2048122;off;private;PD0V Michiel
 2045137;off;private;PD0VDE Stefan
@@ -989,10 +988,9 @@ CallId;CallReceiveTone;CallType;Name
 2045007;off;private;PI5FTS Fontys
 3620007;off;private;PJ2MAN Sherman
 2403032;off;private;SM3GDT Hans
-5054029;off;private;VK4GO Art
-5054035;off;private;VK4TUX Adrian
-3107713;off;private;W6GMU Paul
+2045123;off;private;PD0TZ Yermolai
 2045012;off;private;PD1GWF Gerben
 2042224;off;private;PD2RVK Rody
 2045082;off;private;PE0SSB Henk
 2602002;off;private;SP2FRN Sebastian
+2602004;off;private;SP2FRN Sebastian

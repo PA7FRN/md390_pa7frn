@@ -99,6 +99,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43032500;43192500;none;none;0;0;BRD2 YSF444
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43032500;43192500;none;none;0;0;BRD2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43032500;43192500;none;none;0;0;BRD2 Belgie
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;none;26021;off;43032500;43192500;none;none;0;0;BRD2 26021
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;NEDERLAND;off;43802500;43042500;none;none;0;0;DEC S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;NEDERLAND;off;43802500;43042500;none;none;0;0;DEC 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;WERELDWIJD;off;43802500;43042500;none;none;0;0;DEC Worldwide
@@ -419,26 +420,6 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43801250;43041250;none;none;0;0;WFR2 YSF444
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43801250;43041250;none;none;0;0;WFR2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43801250;43041250;none;none;0;0;WFR2 belgie
-off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;NEDERLAND;off;43828750;43068750;none;none;0;0;ZHM S1S2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;NEDERLAND;off;43828750;43068750;none;none;0;0;ZHM1 204
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;WERELDWIJD;off;43828750;43068750;none;none;0;0;ZHM1 Worldwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa;EUROPA;off;43828750;43068750;none;none;0;0;ZHM1 Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig;NED TALIG;off;43828750;43068750;none;none;0;0;ZHM1 Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A;XRF088A;off;43828750;43068750;none;none;0;0;ZHM1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B;XRF088B;off;43828750;43068750;none;none;0;0;ZHM1XRF088B
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA;JOTA;off;43828750;43068750;none;none;0;0;ZHM1 JOTA
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;Lokaal;LOKAAL;off;43828750;43068750;none;none;0;0;ZHM2 Lokaal
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;Noord;Noord;off;43828750;43068750;none;none;0;0;ZHM2 Noord
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;Midden;Midden;off;43828750;43068750;none;none;0;0;ZHM2 Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;Zuid;Zuid;off;43828750;43068750;none;none;0;0;ZHM2 Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;Oost;Oost;off;43828750;43068750;none;none;0;0;ZHM2 Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;IJsselmond;IJsselmond;off;43828750;43068750;none;none;0;0;ZHM2 IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;C4FM Oost;Oost C4FM;off;43828750;43068750;none;none;0;0;ZHM2 C4FM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;C4FM Hobbys;C4FM Hobbyscoop;off;43828750;43068750;none;none;0;0;ZHM2 C4FM Hobbys
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;Techtalk;Techtalk;off;43828750;43068750;none;none;0;0;ZHM2 Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;YSF 444;off;43828750;43068750;none;none;0;0;ZHM2 YSF444
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;Belgie Vlaams;off;43828750;43068750;none;none;0;0;ZHM2 BE Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;Belgie;off;43828750;43068750;none;none;0;0;ZHM2 Belgie
 off;normal;on;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;NEDERLAND;off;43815000;43055000;none;none;0;0;ZLB S1S2
 off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;NEDERLAND;off;43815000;43055000;none;none;0;0;ZLB1 204
 off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;WERELDWIJD;off;43815000;43055000;none;none;0;0;ZLB1 Worldwide

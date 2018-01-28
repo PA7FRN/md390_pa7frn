@@ -502,100 +502,55 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R YSF444
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R Belgie
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43890000;43130000;none;none;0;0;PJ2R Trojmiasta
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1AMF;NEDERLAND;off;43817500;43057500;none;none;0;0;AMF 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1AMF;Noord;off;43817500;43057500;none;none;0;0;AMF Noord
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1AMF;Midden;off;43817500;43057500;none;none;0;0;AMF Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;PI1AMF;Zuid;off;43817500;43057500;none;none;0;0;AMF Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;PI1AMF;Oost;off;43817500;43057500;none;none;0;0;AMF Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;PI1AMF;IJsselmond;off;43817500;43057500;none;none;0;0;AMF IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;PI1AMF;Oost C4FM;off;43817500;43057500;none;none;0;0;AMF C4FM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;PI1AMF;Techtalk;off;43817500;43057500;none;none;0;0;AMF Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;PI1AMF;YSF 444;off;43817500;43057500;none;none;0;0;AMF YSF444
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PI1AMF;WERELDWIJD;off;43817500;43057500;none;none;0;0;AMF Worlwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PI1AMF;EUROPA;off;43817500;43057500;none;none;0;0;AMF Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;PI1AMF;NED TALIG;off;43817500;43057500;none;none;0;0;AMF Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;PI1AMF;XRF088A;off;43817500;43057500;none;none;0;0;AMF1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;PI1AMF;XRF088B;off;43817500;43057500;none;none;0;0;AMF1XRF088B
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;PI1AMF;Belgie Vlaams;off;43817500;43057500;none;none;0;0;AMF BE Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;PI1AMF;Belgie;off;43817500;43057500;none;none;0;0;AMF Belgie
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;PI1AMF;JOTA;off;43817500;43057500;none;none;0;0;AMF JOTA
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;PI1AMF;Wereld Marc;off;43817500;43057500;none;none;0;0;AMF MA 1 1
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;PI1AMF;Europa Marc;off;43817500;43057500;none;none;0;0;AMF MA 1 2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1AMF;LOKAAL;off;43817500;43057500;none;none;0;0;AMF MA 1 9
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;PI1AMF;ENGELS Marc;off;43817500;43057500;none;none;0;0;AMF MA 1 13
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;PI1AMF;DUITS Marc;off;43817500;43057500;none;none;0;0;AMF MA 1 20
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;PI1AMF;NED Talig Marc;off;43817500;43057500;none;none;0;0;AMF MA 1 22
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1AMF;NEDERLAND;off;43817500;43057500;none;none;0;0;AMF MA 1 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;PI1AMF;REGIONAAL Marc;off;43817500;43057500;none;none;0;0;AMF MA 2 8
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1AMF;LOKAAL;off;43817500;43057500;none;none;0;0;AMF MA 2 9
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1AMF;NEDERLAND;off;43817500;43057500;none;none;0;0;AMF MA 2 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20421;12;0;0;PI1AMF;Keistad;off;43817500;43057500;none;none;0;0;AMF MA 2 20421
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1NOG;NEDERLAND;off;43815000;43055000;none;none;0;0;NOG 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1NOG;LOKAAL;off;43815000;43055000;none;none;0;0;NOG Lokaal
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1NOG;Noord;off;43815000;43055000;none;none;0;0;NOG Nooed
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1NOG;Midden;off;43815000;43055000;none;none;0;0;NOG Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;PI1NOG;Zuid;off;43815000;43055000;none;none;0;0;NOG Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;PI1NOG;Oost;off;43815000;43055000;none;none;0;0;NOG Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;PI1NOG;IJsselmond;off;43815000;43055000;none;none;0;0;NOG IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;PI1NOG;Techtalk;off;43815000;43055000;none;none;0;0;NOG Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;PI1NOG;YSF 444;off;43815000;43055000;none;none;0;0;NOG  YSF444
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PI1NOG;WERELDWIJD;off;43815000;43055000;none;none;0;0;NOG Woldwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PI1NOG;EUROPA;off;43815000;43055000;none;none;0;0;NOG Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;PI1NOG;NED TALIG;off;43815000;43055000;none;none;0;0;NOG Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;PI1NOG;XRF088A;off;43815000;43055000;none;none;0;0;NOG1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;PI1NOG;XRF088B;off;43815000;43055000;none;none;0;0;NOG1XRF088B
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;PI1NOG;Belgie Vlaams;off;43815000;43055000;none;none;0;0;NOG BE Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;PI1NOG;Belgie;off;43815000;43055000;none;none;0;0;NOG Belgie
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;PI1NOG;JOTA;off;43815000;43055000;none;none;0;0;NOG JOTA
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;PI1NOG;Wereld Marc;off;43815000;43055000;none;none;0;0;NOG MA 1 1
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;PI1NOG;Europa Marc;off;43815000;43055000;none;none;0;0;NOG MA 1 2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1NOG;LOKAAL;off;43815000;43055000;none;none;0;0;NOG MA 1 9
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;PI1NOG;ENGELS Marc;off;43815000;43055000;none;none;0;0;NOG MA 1 13
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;PI1NOG;DUITS Marc;off;43815000;43055000;none;none;0;0;NOG MA 1 20
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;PI1NOG;NED Talig Marc;off;43815000;43055000;none;none;0;0;NOG MA 1 22
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1NOG;NEDERLAND;off;43815000;43055000;none;none;0;0;NOG MA 1 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;PI1NOG;REGIONAAL Marc;off;43815000;43055000;none;none;0;0;NOG MA 2 8
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1NOG;LOKAAL;off;43815000;43055000;none;none;0;0;NOG MA 2 9
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1NOG;NEDERLAND;off;43815000;43055000;none;none;0;0;NOG MA 2 204
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1DHG;NEDERLAND;off;43820000;43060000;none;none;0;0;RTD 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1DHG;LOKAAL;off;43820000;43060000;none;none;0;0;RTD Lokaal
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;PI1DHG;Noord;off;43820000;43060000;none;none;0;0;RTD Noord
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;PI1DHG;Midden;off;43820000;43060000;none;none;0;0;RTD Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;PI1DHG;Zuid;off;43820000;43060000;none;none;0;0;RTD Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;PI1DHG;Oost;off;43820000;43060000;none;none;0;0;RTD Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;PI1DHG;IJsselmond;off;43820000;43060000;none;none;0;0;RTD IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;PI1DHG;Oost C4FM;off;43820000;43060000;none;none;0;0;RTD2 C4FM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;PI1DHG;Techtalk;off;43820000;43060000;none;none;0;0;RTD Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;PI1DHG;YSF 444;off;43820000;43060000;none;none;0;0;RTD YSF444
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PI1DHG;WERELDWIJD;off;43820000;43060000;none;none;0;0;RTD Worlwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;PI1DHG;EUROPA;off;43820000;43060000;none;none;0;0;RTD Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;PI1DHG;NED TALIG;off;43820000;43060000;none;none;0;0;RTD Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;PI1DHG;XRF088A;off;43820000;43060000;none;none;0;0;RTD1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;PI1DHG;XRF088B;off;43820000;43060000;none;none;0;0;RTD1XRF088B
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;PI1DHG;Belgie Vlaams;off;43820000;43060000;none;none;0;0;RTD Be Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;PI1DHG;Belgie;off;43820000;43060000;none;none;0;0;RTD Belgie
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;PI1DHG;JOTA;off;43820000;43060000;none;none;0;0;RTD JOTA
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;PI1DHG;Wereld Marc;off;43820000;43060000;none;none;0;0;DHG MA 1 1
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;PI1DHG;Europa Marc;off;43820000;43060000;none;none;0;0;DHG MA 1 2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1DHG;LOKAAL;off;43820000;43060000;none;none;0;0;DHG MA 1 9
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;PI1DHG;ENGELS Marc;off;43820000;43060000;none;none;0;0;DHG MA 1 13
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;PI1DHG;DUITS Marc;off;43820000;43060000;none;none;0;0;DHG MA 1 20
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;PI1DHG;NED Talig Marc;off;43820000;43060000;none;none;0;0;DHG MA 1 22
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1DHG;NEDERLAND;off;43820000;43060000;none;none;0;0;DHG MA 1 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;PI1DHG;REGIONAAL Marc;off;43820000;43060000;none;none;0;0;DHG MA 2 8
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1DHG;LOKAAL;off;43820000;43060000;none;none;0;0;DHG MA 2 9
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1DHG;NEDERLAND;off;43820000;43060000;none;none;0;0;DHG MA 2 204
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;PI1ZWL;Wereld Marc;off;43816250;43056250;none;none;0;0;ZWL MA 1 1
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;PI1ZWL;Europa Marc;off;43816250;43056250;none;none;0;0;ZWL MA 1 2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1ZWL;LOKAAL;off;43816250;43056250;none;none;0;0;ZWL MA 1 9
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;PI1ZWL;ENGELS Marc;off;43816250;43056250;none;none;0;0;ZWL MA 1 13
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;PI1ZWL;DUITS Marc;off;43816250;43056250;none;none;0;0;ZWL MA 1 20 
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;PI1ZWL;NED Talig Marc;off;43816250;43056250;none;none;0;0;ZWL MA 1 22
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1ZWL;NEDERLAND;off;43816250;43056250;none;none;0;0;ZWL MA 1 204
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;PI1ZWL;REGIONAAL Marc;off;43816250;43056250;none;none;0;0;ZWL MA 2 8
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;PI1ZWL;LOKAAL;off;43816250;43056250;none;none;0;0;ZWL MA 2 9
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;PI1ZWL;NEDERLAND;off;43816250;43056250;none;none;0;0;ZWL MA 2 204
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R Trojmiasta
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2ma;none;off;43817500;43057500;none;none;0;0;AMF MA S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-1;none;off;43817500;43057500;none;none;0;0;AMF1 MA Lokaal
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-1;none;off;43817500;43057500;none;none;0;0;AMF1 MA 204
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;MA Worlwide;none;off;43817500;43057500;none;none;0;0;AMF1 MA Worlwide
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;MA Europa;none;off;43817500;43057500;none;none;0;0;AMF1 MA Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;MA NedTalig;none;off;43817500;43057500;none;none;0;0;AMF1 MA NedTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;MA EngTalig;none;off;43817500;43057500;none;none;0;0;AMF1 MA EngTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;10;12;0;0;MA DuiTalig;none;off;43817500;43057500;none;none;0;0;AMF1 MA DuiTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;MA DL-OE-HB;none;off;43817500;43057500;none;none;0;0;AMF1 MA DL-OE-HB
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-2;none;off;43817500;43057500;none;none;0;0;AMF2 MA Lokaal
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;MA Regio;none;off;43817500;43057500;none;none;0;0;AMF2 MA Regio
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-2;none;off;43817500;43057500;none;none;0;0;AMF2 MA 204
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2ma;none;off;43820000;43060000;none;none;0;0;DHG MA S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-1;none;off;43820000;43060000;none;none;0;0;DHG1 MA Lokaal
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-1;none;off;43820000;43060000;none;none;0;0;DHG1 MA 204
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;MA Worlwide;none;off;43820000;43060000;none;none;0;0;DHG1 MA Worlwide
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;MA Europa;none;off;43820000;43060000;none;none;0;0;DHG1 MA Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;MA NedTalig;none;off;43820000;43060000;none;none;0;0;DHG1 MA NedTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;MA EngTalig;none;off;43820000;43060000;none;none;0;0;DHG1 MA EngTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;10;12;0;0;MA DuiTalig;none;off;43820000;43060000;none;none;0;0;DHG1 MA DuiTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;MA DL-OE-HB;none;off;43820000;43060000;none;none;0;0;DHG1 MA DL-OE-HB
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-2;none;off;43820000;43060000;none;none;0;0;DHG2 MA Lokaal
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;MA Regio;none;off;43820000;43060000;none;none;0;0;DHG2 MA Regio
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-2;none;off;43820000;43060000;none;none;0;0;DHG2 MA 204
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2ma;none;off;43815000;43055000;none;none;0;0;NOG MA S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-1;none;off;43815000;43055000;none;none;0;0;NOG1 MA Lokaal
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-1;none;off;43815000;43055000;none;none;0;0;NOG1 MA 204
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;MA Worlwide;none;off;43815000;43055000;none;none;0;0;NOG1 MA Worlwide
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;MA Europa;none;off;43815000;43055000;none;none;0;0;NOG1 MA Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;MA NedTalig;none;off;43815000;43055000;none;none;0;0;NOG1 MA NedTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;MA EngTalig;none;off;43815000;43055000;none;none;0;0;NOG1 MA EngTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;10;12;0;0;MA DuiTalig;none;off;43815000;43055000;none;none;0;0;NOG1 MA DuiTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;MA DL-OE-HB;none;off;43815000;43055000;none;none;0;0;NOG1 MA DL-OE-HB
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-2;none;off;43815000;43055000;none;none;0;0;NOG2 MA Lokaal
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;MA Regio;none;off;43815000;43055000;none;none;0;0;NOG2 MA Regio
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-2;none;off;43815000;43055000;none;none;0;0;NOG2 MA 204
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2ma;none;off;43816250;43056250;none;none;0;0;ZWL MA S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-1;none;off;43816250;43056250;none;none;0;0;ZWL1 MA Lokaal
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-1;none;off;43816250;43056250;none;none;0;0;ZWL1 MA 204
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;1;12;0;0;MA Worlwide;none;off;43816250;43056250;none;none;0;0;ZWL1 MA Worlwide
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2;12;0;0;MA Europa;none;off;43816250;43056250;none;none;0;0;ZWL1 MA Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;22;12;0;0;MA NedTalig;none;off;43816250;43056250;none;none;0;0;ZWL1 MA NedTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;13;12;0;0;MA EngTalig;none;off;43816250;43056250;none;none;0;0;ZWL1 MA EngTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;10;12;0;0;MA DuiTalig;none;off;43816250;43056250;none;none;0;0;ZWL1 MA DuiTalig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20;12;0;0;MA DL-OE-HB;none;off;43816250;43056250;none;none;0;0;ZWL1 MA DL-OE-HB
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;MA Lokaal-2;none;off;43816250;43056250;none;none;0;0;ZWL2 MA Lokaal
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;MA Regio;none;off;43816250;43056250;none;none;0;0;ZWL2 MA Regio
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;MA 204-2;none;off;43816250;43056250;none;none;0;0;ZWL2 MA 204
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;S1S2pl;none;off;43947500;43187500;none;none;0;0;OX S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;260;12;0;0;PlPolska;none;off;43947500;43187500;none;none;0;0;OX1 Polska
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;PlWorldwide;none;off;43947500;43187500;none;none;0;0;OX1 Worldwide
@@ -620,7 +575,6 @@ off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorC
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;SIMPLEX;off;43355000;43355000;none;none;0;0;SIMP-6D
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;SIMPLEX;off;43357500;43357500;none;none;0;0;SIMP-7D
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;SIMPLEX;off;43400000;43400000;none;none;0;0;SIMP-8D-EXP
-off;normal;off;12.5;digital;11;slot1;on;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;none;12;0;0;DMR-DIVERSEN;STZ-Almere;off;46498750;40000000;none;none;0;0;STZ-ALMERE
 off;normal;off;25.0;analog;1;slot1;off;off;off;off;none;0;off;on;off;low;always;high;off;180;on;low;none;12;0;0;none;none;off;43902500;43142500;none;none;0;0;PI2HZN 439.025
 off;normal;off;12.5;analog;1;slot1;off;off;off;off;none;0;off;on;off;low;always;high;off;180;on;low;none;12;0;0;none;none;off;43881250;43121250;none;none;0;0;PD5DJ 438.8125
 off;normal;off;12.5;analog;1;slot1;off;off;off;off;none;0;off;on;off;low;always;high;off;180;on;low;none;12;0;0;none;none;off;43873750;43113750;none;T110.9;0;0;PD3LKN 438.7375

@@ -23,10 +23,10 @@ PI1ZLD;ZLD S1S2;ZLD1 204;ZLD1 Worldwide;ZLD1 Europa;ZLD1 Ned talig;ZLD1XRF088A;Z
 PJ2R;PJ2R S1S2;PJ2R1 204;PJ2R1 Worldwide;PJ2R1 Europa;PJ2R1 Ned talig;PJ2R1XRF088A;PJ2R1XRF088B;PJ2R1 JOTA;PJ2R2 Lokaal;PJ2R NL Noord;PJ2R NL Midden;PJ2R NL Zuid;PJ2R NL Oost;PJ2R IJsselmond;PJ2R Techtalk;PJ2R Trojmiasta
 SR2OX;OX S1S2;OX1 Polska;OX1 Worldwide;OX1 Europa;OX1 2602;OX2 Trojmiasta;OX2 26022;;;;;;;;;
 SR2GDD;GDD S1S2;GDD1 Polska;GDD1 Worldwide;GDD1 Europa;GDD1 2602;GDD2 Trojmiasta;GDD2 26022;;;;;;;;;
-PI1AMF-MARC;AMF MA 1 1;AMF MA 1 2;AMF MA 1 9;AMF MA 1 13;AMF MA 1 20;AMF MA 1 22;AMF MA 1 204;AMF MA 2 8;AMF MA 2 9;AMF MA 2 204;AMF MA 2 20421;;;;;
-PI1NOG-MARC;NOG MA 1 1;NOG MA 1 2;NOG MA 1 9;NOG MA 1 13;NOG MA 1 20;NOG MA 1 22;NOG MA 1 204;NOG MA 2 8;NOG MA 2 9;NOG MA 2 204;;;;;;
-PI1DHG-MARC;DHG MA 1 1;DHG MA 1 2;DHG MA 1 9;DHG MA 1 13;DHG MA 1 20;DHG MA 1 22;DHG MA 1 204;DHG MA 2 8;DHG MA 2 9;DHG MA 2 204;;;;;;
-PI1ZWL-MARC;ZWL MA 1 1;ZWL MA 1 2;ZWL MA 1 9;ZWL MA 1 13;ZWL MA 1 20 ;ZWL MA 1 22;ZWL MA 1 204;ZWL MA 2 8;ZWL MA 2 9;ZWL MA 2 204;;;;;;
+PI1AMF-MARC;AMF MA S1S2;AMF1 MA Lokaal;AMF1 MA 204;AMF1 MA Worlwide;AMF1 MA Europa;AMF1 MA NedTalig;AMF1 MA EngTalig;AMF1 MA DuiTalig;AMF1 MA DL-OE-HB;AMF2 MA Lokaal;AMF2 MA Regio;AMF2 MA 204;;;;
+PI1NOG-MARC;NOG MA S1S2;NOG1 MA Lokaal;NOG1 MA 204;NOG1 MA Worlwide;NOG1 MA Europa;NOG1 MA NedTalig;NOG1 MA EngTalig;NOG1 MA DuiTalig;NOG1 MA DL-OE-HB;NOG2 MA Lokaal;NOG2 MA Regio;NOG2 MA 204;;;;
+PI1DHG-MARC;DHG MA S1S2;DHG1 MA Lokaal;DHG1 MA 204;DHG1 MA Worlwide;DHG1 MA Europa;DHG1 MA NedTalig;DHG1 MA EngTalig;DHG1 MA DuiTalig;DHG1 MA DL-OE-HB;DHG2 MA Lokaal;DHG2 MA Regio;DHG2 MA 204;;;;
+PI1ZWL-MARC;ZWL MA S1S2;ZWL1 MA Lokaal;ZWL1 MA 204;ZWL1 MA Worlwide;ZWL1 MA Europa;ZWL1 MA NedTalig;ZWL1 MA EngTalig;ZWL1 MA DuiTalig;ZWL1 MA DL-OE-HB;ZWL2 MA Lokaal;ZWL2 MA Regio;ZWL2 MA 204;;;;
 DVMega BM;Mega 204;Mega Noord;Mega Midden;Mega  Zuid;Mega  Oost;Mega Techtalk;Mega Worldwide;Mega Europa;Mega YSF 444;Mega XRF88A;Mega XRF88B;Mega Jota;Mega  IJsselmond;Mega C4FM Oost;Mega C4FM Hobbys;Mega ontkoppelen
 openSpot BM;openSwelkprofiel;openSP profiel 4;openS 204;openS Noord;openS Midden;openS Zuid;openS Oost;openS Techtalk;openS  Worldwide;openS Europa;openS XRF88A;openS XRF88B;openS ontkoppele;openS IJselmond;openS C4FM Oost;
 openS profielen;openSwelkprofiel;openSwelkeconnec;openSp profiel 0;openSP profiel 1;openSP profiel 2;openSP profiel 3;openSP profiel 4;openS Lokaal;;;;;;;;

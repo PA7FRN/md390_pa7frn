@@ -20,6 +20,7 @@ off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43836250;43076250;none;none;0;0;ADF2 BE Vlaams
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43836250;43076250;none;none;0;0;ADF2 Belgie
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43836250;43076250;none;none;0;0;ADF2 Trojmiasta
+off;normal;on;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43836250;43076250;none;none;0;0;ADF2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43805000;43045000;none;none;0;0;AMS S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43805000;43045000;none;none;0;0;AMS1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43805000;43045000;none;none;0;0;AMS1 Worldwide
@@ -41,6 +42,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43805000;43045000;none;none;0;0;AMS2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43805000;43045000;none;none;0;0;AMS2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43805000;43045000;none;none;0;0;AMS2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43805000;43045000;none;none;0;0;AMS2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43806250;43046250;none;none;0;0;ANH S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43806250;43046250;none;none;0;0;ANH1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43806250;43046250;none;none;0;0;ANH1 Worldwide
@@ -62,6 +64,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43806250;43046250;none;none;0;0;ANH2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43806250;43046250;none;none;0;0;ANH2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43806250;43046250;none;none;0;0;ANH2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43806250;43046250;none;none;0;0;ANH2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43838750;43078750;none;none;0;0;APD S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43838750;43078750;none;none;0;0;APD1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43838750;43078750;none;none;0;0;APD1 Worldwide
@@ -83,6 +86,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43838750;43078750;none;none;0;0;APD2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43838750;43078750;none;none;0;0;APD2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43838750;43078750;none;none;0;0;APD2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43838750;43078750;none;none;0;0;APD2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;none;off;43032500;43192500;none;none;0;0;BRD S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43032500;43192500;none;none;0;0;BRD1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43032500;43192500;none;none;0;0;BRD1 Worldwide
@@ -104,6 +108,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43032500;43192500;none;none;0;0;BRD2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43032500;43192500;none;none;0;0;BRD2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43032500;43192500;none;none;0;0;BRD2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43032500;43192500;none;none;0;0;BRD2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43837500;43077500;none;none;0;0;DFT S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43837500;43077500;none;none;0;0;DFT1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43837500;43077500;none;none;0;0;DFT1 Worldwide
@@ -125,6 +130,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43837500;43077500;none;none;0;0;DFT2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43837500;43077500;none;none;0;0;DFT2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43837500;43077500;none;none;0;0;DFT2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43837500;43077500;none;none;0;0;DFT2 Echo
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43808750;43048750;none;none;0;0;DOR S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43808750;43048750;none;none;0;0;DOR1 204
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43808750;43048750;none;none;0;0;DOR1 Worldwide
@@ -146,6 +152,7 @@ off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43808750;43048750;none;none;0;0;DOR2 BE Vlaams
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43808750;43048750;none;none;0;0;DOR2 Belgie
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43808750;43048750;none;none;0;0;DOR2 Trojmiasta
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43808750;43048750;none;none;0;0;DOR2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2noord;none;off;43800000;43040000;none;none;0;0;DRA S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43800000;43040000;none;none;0;0;DRA1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43800000;43040000;none;none;0;0;DRA1 Worldwide
@@ -167,27 +174,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43800000;43040000;none;none;0;0;DRA2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43800000;43040000;none;none;0;0;DRA2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43800000;43040000;none;none;0;0;DRA2 Trojmiasta
-off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;none;off;43010000;43170000;none;none;0;0;EHV S1S2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43010000;43170000;none;none;0;0;EHV 204
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43010000;43170000;none;none;0;0;EHV Worlwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa;none;off;43010000;43170000;none;none;0;0;EHV Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig;none;off;43010000;43170000;none;none;0;0;EHV Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A;none;off;43010000;43170000;none;none;0;0;EHV1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B;none;off;43010000;43170000;none;none;0;0;EHV1XRF088B
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA;none;off;43010000;43170000;none;none;0;0;EHV JOTA
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;Lokaal;none;off;43010000;43170000;none;none;0;0;EHV Lokaal
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;Noord;none;off;43010000;43170000;none;none;0;0;EHV Noord
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;Midden;none;off;43010000;43170000;none;none;0;0;EHV Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;Zuid;none;off;43010000;43170000;none;none;0;0;EHV Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;Oost;none;off;43010000;43170000;none;none;0;0;EHV Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;IJsselmond;none;off;43010000;43170000;none;none;0;0;EHV IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;C4FM Oost;none;off;43010000;43170000;none;none;0;0;EHV C4FM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;C4FM Hobbys;none;off;43010000;43170000;none;none;0;0;EHV C4FM Hobbysc
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;Techtalk;none;off;43010000;43170000;none;none;0;0;EHV Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;none;off;43010000;43170000;none;none;0;0;EHV YSF444
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43010000;43170000;none;none;0;0;EHV BE Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43010000;43170000;none;none;0;0;EHV Belgie
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43010000;43170000;none;none;0;0;EHV Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43800000;43040000;none;none;0;0;DRA2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2noord;none;off;43836250;43076250;none;none;0;0;FRL S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43836250;43076250;none;none;0;0;FRL1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43836250;43076250;none;none;0;0;FRL1 Worldwide
@@ -209,6 +196,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43836250;43076250;none;none;0;0;FRL2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43836250;43076250;none;none;0;0;FRL2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43836250;43076250;none;none;0;0;FRL2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43836250;43076250;none;none;0;0;FRL2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43832500;43072500;none;none;0;0;GRL S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43832500;43072500;none;none;0;0;GRL1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43832500;43072500;none;none;0;0;GRL1 Worldwide
@@ -230,6 +218,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43832500;43072500;none;none;0;0;GRL2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43832500;43072500;none;none;0;0;GRL2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43832500;43072500;none;none;0;0;GRL2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43832500;43072500;none;none;0;0;GRL2 Echo
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;none;off;43826250;43066250;none;none;0;0;HRL S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43826250;43066250;none;none;0;0;HRL1 204
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43826250;43066250;none;none;0;0;HRL1 Worldwide
@@ -251,6 +240,7 @@ off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43826250;43066250;none;none;0;0;HRL2 BE Vlaams
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43826250;43066250;none;none;0;0;HRL2 Belgie
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43826250;43066250;none;none;0;0;HRL2 Trojmiasta
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43826250;43066250;none;none;0;0;HRL2 Echo
 off;normal;on;12.5;digital;4;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2noord;none;off;43815000;43055000;none;none;0;0;KPH S1S2
 off;normal;off;12.5;digital;4;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43815000;43055000;none;none;0;0;KPH1 204
 off;normal;off;12.5;digital;4;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43815000;43055000;none;none;0;0;KPH1 Worldwide
@@ -272,27 +262,7 @@ off;normal;off;12.5;digital;4;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;4;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43815000;43055000;none;none;0;0;KPH2 BE Vlaams
 off;normal;off;12.5;digital;4;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43815000;43055000;none;none;0;0;KPH2 Belgie
 off;normal;off;12.5;digital;4;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43815000;43055000;none;none;0;0;KPH2 Trojmiasta
-off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2noord;none;off;43840000;43080000;none;none;0;0;LWD S1S2
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43840000;43080000;none;none;0;0;LWD 204
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43840000;43080000;none;none;0;0;LWD Worldwide
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa;none;off;43840000;43080000;none;none;0;0;LWD Europa
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig;none;off;43840000;43080000;none;none;0;0;LWD Ned talig
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A;none;off;43840000;43080000;none;none;0;0;LWD1XRF088A
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B;none;off;43840000;43080000;none;none;0;0;LWD1XRF088B
-off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA;none;off;43840000;43080000;none;none;0;0;LWD  JOTA
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;Lokaal;none;off;43840000;43080000;none;none;0;0;LWD Lokaal
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;Noord;none;off;43840000;43080000;none;none;0;0;LWD Noord
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;Midden;none;off;43840000;43080000;none;none;0;0;LWD Midden
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;Zuid;none;off;43840000;43080000;none;none;0;0;LWD Zuid
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2044;12;0;0;Oost;none;off;43840000;43080000;none;none;0;0;LWD Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20441;12;0;0;IJsselmond;none;off;43840000;43080000;none;none;0;0;LWD IJsselmond
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20442;12;0;0;C4FM Oost;none;off;43840000;43080000;none;none;0;0;LWDC4FM Oost
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20401;12;0;0;C4FM Hobbys;none;off;43840000;43080000;none;none;0;0;LWD C4FM Hobbysc
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2045;12;0;0;Techtalk;none;off;43840000;43080000;none;none;0;0;LWD Techtalk
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;20494;12;0;0;YSF444;none;off;43840000;43080000;none;none;0;0;LWD  YSF444
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43840000;43080000;none;none;0;0;LWD BE Vlaams
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43840000;43080000;none;none;0;0;LWD Belgie
-off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43840000;43080000;none;none;0;0;LWD2 Trojmiasta
+off;normal;off;12.5;digital;4;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43815000;43055000;none;none;0;0;KPH2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43803750;43043750;none;none;0;0;NIJ S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43803750;43043750;none;none;0;0;NIJ1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43803750;43043750;none;none;0;0;NIJ1 Worldwide
@@ -314,6 +284,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43803750;43043750;none;none;0;0;NIJ2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43803750;43043750;none;none;0;0;NIJ2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43803750;43043750;none;none;0;0;NIJ2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43803750;43043750;none;none;0;0;NIJ2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;none;off;43802500;43042500;none;none;0;0;NLB S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43802500;43042500;none;none;0;0;NLB1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43802500;43042500;none;none;0;0;NLB1 Worldwide
@@ -335,6 +306,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43802500;43042500;none;none;0;0;NLB2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43802500;43042500;none;none;0;0;NLB2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43802500;43042500;none;none;0;0;NLB2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43802500;43042500;none;none;0;0;NLB2 Echo
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43805000;43045000;none;none;0;0;NYM S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43805000;43045000;none;none;0;0;NYM1 204
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43805000;43045000;none;none;0;0;NYM1 Worldwide
@@ -356,6 +328,7 @@ off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43805000;43045000;none;none;0;0;NYM2 BE Vlaams
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43805000;43045000;none;none;0;0;NYM2 Belgie
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43805000;43045000;none;none;0;0;NYM2 Trojmiasta
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43805000;43045000;none;none;0;0;NYM2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43830000;43070000;none;none;0;0;SPA S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43830000;43070000;none;none;0;0;SPA1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43830000;43070000;none;none;0;0;SPA1 Worldwide
@@ -377,6 +350,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43830000;43070000;none;none;0;0;SPA2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43830000;43070000;none;none;0;0;SPA2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43830000;43070000;none;none;0;0;SPA2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43830000;43070000;none;none;0;0;SPA2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43827500;43067500;none;none;0;0;TWE S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43827500;43067500;none;none;0;0;TWE1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43827500;43067500;none;none;0;0;TWE1 Worldwide
@@ -398,6 +372,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43827500;43067500;none;none;0;0;TWE2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43827500;43067500;none;none;0;0;TWE2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43827500;43067500;none;none;0;0;TWE2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43827500;43067500;none;none;0;0;TWE2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2midden;none;off;43835000;43075000;none;none;0;0;UTR S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43835000;43075000;none;none;0;0;UTR1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43835000;43075000;none;none;0;0;UTR1 Worldwide
@@ -419,6 +394,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43835000;43075000;none;none;0;0;UTR2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43835000;43075000;none;none;0;0;UTR2 Belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43835000;43075000;none;none;0;0;UTR2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43835000;43075000;none;none;0;0;UTR2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2noord;none;off;43801250;43041250;none;none;0;0;WFR S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43801250;43041250;none;none;0;0;WFR1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43801250;43041250;none;none;0;0;WFR1 Worldwide
@@ -440,6 +416,7 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43801250;43041250;none;none;0;0;WFR2 BE Vlaams
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43801250;43041250;none;none;0;0;WFR2 belgie
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43801250;43041250;none;none;0;0;WFR2 Trojmiasta
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43801250;43041250;none;none;0;0;WFR2 Echo
 off;normal;on;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;none;off;43815000;43055000;none;none;0;0;ZLB S1S2
 off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43815000;43055000;none;none;0;0;ZLB1 204
 off;normal;off;12.5;digital;3;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43815000;43055000;none;none;0;0;ZLB1 Worldwide
@@ -461,6 +438,7 @@ off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43815000;43055000;none;none;0;0;ZLB2 BE Vlaams
 off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43815000;43055000;none;none;0;0;ZLB2 Belgie
 off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43815000;43055000;none;none;0;0;ZLB2 Trojmiasta
+off;normal;off;12.5;digital;3;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43815000;43055000;none;none;0;0;ZLB2 Echo
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2zuid;none;off;43840000;43080000;none;none;0;0;ZLD S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland;none;off;43840000;43080000;none;none;0;0;ZLD1 204
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide;none;off;43840000;43080000;none;none;0;0;ZLD1 Worldwide
@@ -482,6 +460,7 @@ off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2061;12;0;0;BE Vlaams;none;off;43840000;43080000;none;none;0;0;ZLD2 BE Vlaams
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;206;12;0;0;Belgie;none;off;43840000;43080000;none;none;0;0;ZLD2 Belgie
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta;none;off;43840000;43080000;none;none;0;0;ZLD2 Trojmiasta
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9990;12;0;0;none;none;off;43840000;43080000;none;none;0;0;ZLD2 Echo
 off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;S1S2Curacao;none;off;43890000;43130000;none;none;0;0;PJ2R S1S2
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R1 204
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;none;none;off;43890000;43130000;none;none;0;0;PJ2R1 Worldwide

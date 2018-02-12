@@ -1,4 +1,6 @@
 Name;ChannelMember01;ChannelMember02;ChannelMember03;ChannelMember04;ChannelMember05;ChannelMember06;ChannelMember07;ChannelMember08;ChannelMember09;ChannelMember10;ChannelMember11;ChannelMember12;ChannelMember13;ChannelMember14;ChannelMember15;ChannelMember16
+Service N;ADF2 Echo;AMS2 Echo;ANH2 Echo;APD2 Echo;DFT2 Echo;DOR2 Echo;DRA2 Echo;FRL2 Echo;GRL2 Echo;KPH2 Echo;NIJ2 Echo;NYM2 Echo;SPA2 Echo;TWE2 Echo;UTR2 Echo;WFR2 Echo
+Service Z;AMS2 Echo;ANH2 Echo;APD2 Echo;BRD2 Echo;DFT2 Echo;DOR2 Echo;GRL2 Echo;HRL2 Echo;NIJ2 Echo;NLB2 Echo;NYM2 Echo;SPA2 Echo;TWE2 Echo;UTR2 Echo;ZLD2 Echo;ZLB2 Echo
 PI1ADF;ADF S1S2;ADF1 204;ADF1 Worldwide;ADF1 Europa;ADF1 Ned talig;ADF1XRF088A;ADF1XRF088B;ADF1 JOTA;ADF2 Lokaal;ADF2 Noord;ADF2 Midden;ADF2 Zuid;ADF2 Oost;ADF2 IJsselmond;ADF2 Techtalk;ADF2 Trojmiasta
 PI1AMS;AMS S1S2;AMS1 204;AMS1 Worldwide;AMS1 Europa;AMS1 Ned talig;AMS1XRF088A;AMS1XRF088B;AMS1 JOTA;AMS2 Lokaal;AMS2 Noord;AMS2 Midden;AMS2 Zuid;AMS2 Oost;AMS2 IJsselmond;AMS2 Techtalk;AMS2 Trojmiasta
 PI1ANH;ANH S1S2;ANH1 204;ANH1 Worldwide;ANH1 Europa;ANH1 Ned talig;ANH1XRF088A;ANH1XRF088B;ANH1 JOTA;ANH2 Lokaal;ANH2 Noord;ANH2 Midden;ANH2 Zuid;ANH2 Oost;ANH2 IJsslemond;ANH2 Techtalk;ANH2 Trojmiasta

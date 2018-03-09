@@ -22,8 +22,9 @@ CallId;CallReceiveTone;CallType;Name
 2049881;off;group;XRF088A
 2049882;off;group;XRF088B
 206;off;group;Belgie
-2061;off;group;Belgie Vlaams
-2062;off;group;Belgie Frans
+2061;off;group;Belgie Noord
+2062;off;group;Belgie Zuid
+2063;off;group;Belgie Oost
 22;off;group;NED Talig Marc
 260;off;group;POLSKA
 2602;off;group;2602 S1

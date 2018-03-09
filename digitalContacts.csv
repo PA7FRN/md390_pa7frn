@@ -1,9 +1,10 @@
 CallId;CallReceiveTone;CallType;Name
 1;off;group;Wereld Marc
+10;off;group;DUITS Marc
 13;off;group;ENGELS Marc
 1001;off;group;STZ ALMERE
 2;off;group;Europa Marc
-20;off;group;DUITS Marc
+20;off;group;DL-OE-HB Marc
 204;off;group;NEDERLAND
 20401;off;group;C4FM Hobbyscoop
 2041;off;group;Noord
@@ -21,12 +22,13 @@ CallId;CallReceiveTone;CallType;Name
 2049881;off;group;XRF088A
 2049882;off;group;XRF088B
 206;off;group;Belgie
-2061;off;group;Belgie Vlaams
-2062;off;group;Belgie Frans
+2061;off;group;Belgie Noord
+2062;off;group;Belgie Zuid
+2063;off;group;Belgie Oost
 22;off;group;NED Talig Marc
 260;off;group;POLSKA
 2602;off;group;2602 S1
-26021;off;group;26021 S2
+26021;off;group;Trojmiasta
 26022;off;group;26022 S2
 362001;off;group;PJ2R Lokaal
 4000;off;group;Ontkoppelen
@@ -534,7 +536,6 @@ CallId;CallReceiveTone;CallType;Name
 2048004;off;private;PD0SDO Jan
 2048012;off;private;PD0SEH Gooi
 2042010;off;private;PD0TVA Theo
-2045123;off;private;PD0TZ Yermolai
 2042322;off;private;PD0TZM Ton
 2048122;off;private;PD0V Michiel
 2045137;off;private;PD0VDE Stefan
@@ -989,10 +990,10 @@ CallId;CallReceiveTone;CallType;Name
 2045007;off;private;PI5FTS Fontys
 3620007;off;private;PJ2MAN Sherman
 2403032;off;private;SM3GDT Hans
-5054029;off;private;VK4GO Art
-5054035;off;private;VK4TUX Adrian
-3107713;off;private;W6GMU Paul
+2045123;off;private;PD0TZ Yermolai
 2045012;off;private;PD1GWF Gerben
+2045194;off;private;PD2ON Pieter
 2042224;off;private;PD2RVK Rody
 2045082;off;private;PE0SSB Henk
 2602002;off;private;SP2FRN Sebastian
+2602004;off;private;SP2FRN Sebastian

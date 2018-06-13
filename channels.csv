@@ -529,22 +529,37 @@ off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;922;12;0;0;Ned talig <>;none;off;43958750;43198750;none;none;0;0;ON0WV2 NL talig
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;NL-Zuid <>;none;off;43958750;43198750;none;none;0;0;ON0WV2 NL Zuid
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta <>;none;off;43958750;43198750;none;none;0;0;ON0WV2 T-miasta
+off;normal;on;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;262;12;0;0;S DL;none;off;43862500;43102500;none;none;0;0;DB0OUD S1S2
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;262;12;0;0;Germany DL;none;off;43862500;43102500;none;none;0;0;DB0OUD1 Germany
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2620;12;0;0;Sa-An DL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 Sa-An
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2621;12;0;0;Be_Br DL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 Be-Br
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2623;12;0;0;NSach DL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 Nsach
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2624;12;0;0;NR-WF DL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 NR-WF
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;8;12;0;0;Regio DL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 Regio
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;S DL Local;none;off;43862500;43102500;none;none;0;0;DB0OUD2 Lokaal
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide DL PL;none;off;43862500;43102500;none;none;0;0;DB0OUD1 Worldwd
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa DL PL;none;off;43862500;43102500;none;none;0;0;DB0OUD1 Europa
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;910;12;0;0;Du Talig DL;none;off;43862500;43102500;none;none;0;0;DB0OUD1 Du Talig
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;920;12;0;0;DACH DL;none;off;43862500;43102500;none;none;0;0;DB0OUD1 DACH
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9112;12;0;0;EMCOM EU DL;none;off;43862500;43102500;none;none;0;0;DB0OUD1 EMCOM EU
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;204;12;0;0;Nederland DL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 NL
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;NL-Zuid DL PL;none;off;43862500;43102500;none;none;0;0;DB0OUD2 NL Zuid
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;S PL;none;off;43947500;43187500;none;none;0;0;SR2OX S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;260;12;0;0;Polska PL;none;off;43947500;43187500;none;none;0;0;SR2OX1 Polska
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide PL;none;off;43947500;43187500;none;none;0;0;SR2OX1 Worldwd
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa PL;none;off;43947500;43187500;none;none;0;0;SR2OX1 Europa
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide DL PL;none;off;43947500;43187500;none;none;0;0;SR2OX1 Worldwd
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa DL PL;none;off;43947500;43187500;none;none;0;0;SR2OX1 Europa
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2602;12;0;0;2602 PL;none;off;43947500;43187500;none;none;0;0;SR2OX1 2602
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta PL;none;off;43947500;43187500;none;none;0;0;SR2OX2 T-miasta
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26022;12;0;0;26022 PL;none;off;43947500;43187500;none;none;0;0;SR2OX2 26022
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;NL-Zuid PL;none;off;43947500;43187500;none;none;0;0;SR2OX2 NL Zuid
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;NL-Zuid DL PL;none;off;43947500;43187500;none;none;0;0;SR2OX2 NL Zuid
 off;normal;on;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;S PL;none;off;43828750;43068750;none;none;0;0;SR2GDD S1S2
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;260;12;0;0;Polska PL;none;off;43828750;43068750;none;none;0;0;SR2GDD1 Polska
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide PL;none;off;43828750;43068750;none;none;0;0;SR2GDD1 Worldwd
-off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa PL;none;off;43828750;43068750;none;none;0;0;SR2GDD1 Europa
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;91;12;0;0;Worldwide DL PL;none;off;43828750;43068750;none;none;0;0;SR2GDD1 Worldwd
+off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;92;12;0;0;Europa DL PL;none;off;43828750;43068750;none;none;0;0;SR2GDD1 Europa
 off;normal;off;12.5;digital;2;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2602;12;0;0;2602 PL;none;off;43828750;43068750;none;none;0;0;SR2GDD1 2602
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26021;12;0;0;Trojmiasta PL;none;off;43828750;43068750;none;none;0;0;SR2GDD2 T-miasta
 off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;26022;12;0;0;26022 PL;none;off;43828750;43068750;none;none;0;0;SR2GDD2 26022
-off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;NL-Zuid PL;none;off;43828750;43068750;none;none;0;0;SR2GDD2 NL Zuid
+off;normal;off;12.5;digital;2;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2043;12;0;0;NL-Zuid DL PL;none;off;43828750;43068750;none;none;0;0;SR2GDD2 NL Zuid
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;none;off;43342500;43342500;none;none;0;0;SIMP-1D
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;none;off;43345000;43345000;none;none;0;0;SIMP-2D-OPR
 off;normal;off;12.5;digital;1;slot1;off;off;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;99;12;0;0;SIMPLEX;none;off;43347500;43347500;none;none;0;0;SIMP-3D

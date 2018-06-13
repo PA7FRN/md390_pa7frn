@@ -30,12 +30,20 @@ CallId;CallReceiveTone;CallType;Name
 2602;off;group;2602 S1
 26021;off;group;Trojmiasta
 26022;off;group;26022 S2
+262;off;group;Germany
+2620;off;group;Sa-An
+2621;off;group;Be-Br
+2623;off;group;Nsach
+2624;off;group;NR-WF
 362001;off;group;PJ2R Lokaal
 4000;off;group;Ontkoppelen
-8;off;group;REGIONAAL Marc
+8;off;group;Regio
 9;off;group;LOKAAL
 907;off;group;JOTA
 91;off;group;WERELDWIJD
+9112;off;group;EMCOM EU
+910;off;group;Du Talig
+920;off;group;DACH
 92;off;group;EUROPA
 922;off;group;NED TALIG
 99;off;group;SIMPLEX

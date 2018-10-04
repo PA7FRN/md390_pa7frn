@@ -71,6 +71,11 @@ off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCo
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049881;12;0;0;1XRF088A NL;none;off;43032500;43192500;none;none;0;0;PI2BRD1XRF088A
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2049882;12;0;0;1XRF088B NL;none;off;43032500;43192500;none;none;0;0;PI2BRD1XRF088B
 off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA NL;none;off;43032500;43192500;none;none;0;0;PI2BRD1 JOTA
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9071;12;0;0;JOTA NL;none;off;43032500;43192500;none;none;0;0;PI2BRD1 JOTA-1
+off;normal;off;12.5;digital;1;slot1;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9072;12;0;0;JOTA NL;none;off;43032500;43192500;none;none;0;0;PI2BRD1 JOTA-2
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;907;12;0;0;JOTA NL;none;off;43032500;43192500;none;none;0;0;PI2BRD2 JOTA
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9071;12;0;0;JOTA NL;none;off;43032500;43192500;none;none;0;0;PI2BRD2 JOTA-1
+off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9072;12;0;0;JOTA NL;none;off;43032500;43192500;none;none;0;0;PI2BRD2 JOTA-2
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;9;12;0;0;S NL Local;none;off;43032500;43192500;none;none;0;0;PI2BRD2 Lokaal
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2041;12;0;0;NL-Noord NL;none;off;43032500;43192500;none;none;0;0;PI2BRD2 Noord
 off;normal;off;12.5;digital;1;slot2;off;on;off;off;none;0;off;on;off;low;colorCode;high;off;180;on;low;2042;12;0;0;NL-Midden NL;none;off;43032500;43192500;none;none;0;0;PI2BRD2 Midden
